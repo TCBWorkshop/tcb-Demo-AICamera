@@ -1,0 +1,16 @@
+{
+  "pages": [
+    "pages/detect/index",
+    "pages/clip/index",
+    "pages/filter/index"
+
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "",
+    "navigationBarTextStyle": "black"
+  },
+  "cloud": true,
+  "sitemapLocation": "sitemap.json"
+}

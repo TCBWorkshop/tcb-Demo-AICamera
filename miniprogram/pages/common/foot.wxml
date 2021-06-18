@@ -1,0 +1,5 @@
+<template name="foot">
+  <view class="page-foot">
+    <view class="index-desc" style="text-align:center; margin-top: 20rpx">搜索小程序云开发了解更多实现细节</view>
+  </view>
+</template>
